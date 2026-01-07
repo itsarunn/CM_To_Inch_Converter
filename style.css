@@ -1,0 +1,31 @@
+body{
+    background-color:antiquewhite;
+    margin: 0%;
+}
+.container{
+    background-color: rgb(153, 202, 243);
+    height:250px;
+    width: 250px;
+    border-radius: 10px;
+    margin:200px 625px 200px 625px;
+    padding: 15px;
+    text-align: center;
+}
+#title{
+    margin-top: 0%;
+}
+#value{
+    display: block;
+    width: 70%;
+    margin: 0 auto 20px auto;
+    padding: 10px;
+    border-radius: 8px;
+    border-color: rgb(153, 202, 243);
+}
+.submit{
+    border-radius: 8px;
+    border-color: rgb(153, 202, 243);
+    padding: 5px;
+    width: 60px;
+    height: 30px;
+}
